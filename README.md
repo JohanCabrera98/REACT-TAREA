@@ -1,3 +1,3 @@
 # REACT-TAREA
 
-No entiendo porque no se subieron todas las carpetas del React
+Tuve que hacer otro Repositorio porque el anterior no me permitia subir los cambios
